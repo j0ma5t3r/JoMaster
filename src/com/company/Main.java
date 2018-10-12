@@ -19,7 +19,7 @@ public class Main {
         if(checkResult == true){
             JonahTextfile.createTextFile();
             System.out.println("Passwort check: " + checkResult);
-            String myVariable = "ASDF";
+            String myVariable = "Hello";
             System.out.println(myVariable);
             Integer myInteger = 11;
             System.out.println(myInteger);
