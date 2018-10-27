@@ -7,8 +7,8 @@ public class JonahPass {
 
     public JonahPass() {
         passwords = new HashMap<>();
-        passwords.put("Jonah","MyPass");
-        passwords.put("Martin","Pass2");
+        passwords.put("Jonah","pass");
+        passwords.put("Martin","schoki");
     }
 
     public JonahPass(String user, String pass) {
